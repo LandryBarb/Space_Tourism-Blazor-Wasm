@@ -11,33 +11,33 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = SpaceTourism.Client
 build_property.RootNamespace = SpaceTourism.Client
-build_property.ProjectDir = c:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FrontEnd\SpaceTourism\SpaceTourism.Client\
+build_property.ProjectDir = C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FrontEnd\SpaceTourism\SpaceTourism.Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FrontEnd\SpaceTourism\SpaceTourism.Client
+build_property.MSBuildProjectDirectory = C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FrontEnd\SpaceTourism\SpaceTourism.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/SpaceTourism/SpaceTourism.Client/App.razor]
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/SpaceTourism/SpaceTourism.Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/SpaceTourism/SpaceTourism.Client/Features/Crew/Crew.razor]
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/SpaceTourism/SpaceTourism.Client/Features/Crew/Crew.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcQ3Jld1xDcmV3LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/SpaceTourism/SpaceTourism.Client/Features/Index.razor]
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/SpaceTourism/SpaceTourism.Client/Features/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/SpaceTourism/SpaceTourism.Client/Shared/MainLayout.razor]
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/SpaceTourism/SpaceTourism.Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/SpaceTourism/SpaceTourism.Client/Shared/NavMenu.razor]
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/SpaceTourism/SpaceTourism.Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/SpaceTourism/SpaceTourism.Client/_Imports.razor]
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/SpaceTourism/SpaceTourism.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
