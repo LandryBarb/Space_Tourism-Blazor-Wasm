@@ -41,35 +41,68 @@
         }
       },
       {
-        "HashCode": 110118449,
+        "HashCode": -2078754057,
         "Kind": "Components.Component",
-        "Name": "SpaceTourism.Client.Shared.NavMenu",
+        "Name": "SpaceTourism.Client.Features.Crew.Crew",
         "AssemblyName": "SpaceTourism.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "Crew"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SpaceTourism.Client.Shared.NavMenu"
+          "Common.TypeName": "SpaceTourism.Client.Features.Crew.Crew"
         }
       },
       {
-        "HashCode": -1790062229,
+        "HashCode": -1517343528,
         "Kind": "Components.Component",
-        "Name": "SpaceTourism.Client.Shared.NavMenu",
+        "Name": "SpaceTourism.Client.Features.Crew.Crew",
         "AssemblyName": "SpaceTourism.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SpaceTourism.Client.Shared.NavMenu"
+            "TagName": "SpaceTourism.Client.Features.Crew.Crew"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SpaceTourism.Client.Shared.NavMenu",
+          "Common.TypeName": "SpaceTourism.Client.Features.Crew.Crew",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1356403345,
+        "Kind": "Components.Component",
+        "Name": "SpaceTourism.Client.Features.Index",
+        "AssemblyName": "SpaceTourism.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SpaceTourism.Client.Features.Index"
+        }
+      },
+      {
+        "HashCode": 716016182,
+        "Kind": "Components.Component",
+        "Name": "SpaceTourism.Client.Features.Index",
+        "AssemblyName": "SpaceTourism.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SpaceTourism.Client.Features.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SpaceTourism.Client.Features.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -170,68 +203,35 @@
         }
       },
       {
-        "HashCode": -2078754057,
+        "HashCode": 110118449,
         "Kind": "Components.Component",
-        "Name": "SpaceTourism.Client.Features.Crew.Crew",
+        "Name": "SpaceTourism.Client.Shared.NavMenu",
         "AssemblyName": "SpaceTourism.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Crew"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SpaceTourism.Client.Features.Crew.Crew"
+          "Common.TypeName": "SpaceTourism.Client.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -1517343528,
+        "HashCode": -1790062229,
         "Kind": "Components.Component",
-        "Name": "SpaceTourism.Client.Features.Crew.Crew",
+        "Name": "SpaceTourism.Client.Shared.NavMenu",
         "AssemblyName": "SpaceTourism.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SpaceTourism.Client.Features.Crew.Crew"
+            "TagName": "SpaceTourism.Client.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SpaceTourism.Client.Features.Crew.Crew",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1356403345,
-        "Kind": "Components.Component",
-        "Name": "SpaceTourism.Client.Features.Index",
-        "AssemblyName": "SpaceTourism.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SpaceTourism.Client.Features.Index"
-        }
-      },
-      {
-        "HashCode": 716016182,
-        "Kind": "Components.Component",
-        "Name": "SpaceTourism.Client.Features.Index",
-        "AssemblyName": "SpaceTourism.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SpaceTourism.Client.Features.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SpaceTourism.Client.Features.Index",
+          "Common.TypeName": "SpaceTourism.Client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

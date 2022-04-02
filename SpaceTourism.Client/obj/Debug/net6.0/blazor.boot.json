@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-tSv6NEbBsHuM5P3AUJGybafS0hxrXlzDmmcyG2eGk3I=",
       "netstandard.dll": "sha256-klcvWVyHimPfDxg6W1A076EKpCB5ySxjtc7sxJEsGgE=",
       "System.Private.CoreLib.dll": "sha256-Y8kdbfPQ0YoYLGbOgzRmoVsnuMYNlA1hvLvDWFTtzrk=",
-      "SpaceTourism.Client.dll": "sha256-2uLP6PzW64rtKgU4sSmCW94et1rDs1NNHWWGUBk1ypE="
+      "SpaceTourism.Client.dll": "sha256-9H32Qr8v9ZntziS36CeAZhq\/+u4CZjNsovKseQ2MMWw="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "SpaceTourism.Client.pdb": "sha256-sgdKAllx\/oQ0QsN5x2XfHfPGCKYNjG0R7dyhx3VFzUY="
+      "SpaceTourism.Client.pdb": "sha256-RzTna8RWrgjwGIXssCwuYl+w3PaB\/KP\/byvnTUJ6M5g="
     },
     "runtime": {
       "dotnet.6.0.3.k4rg04dpep.js": "sha256-pRmcHKZN4T\/YbX9dj6ITT4sNtkJ9w07OLcwl4645nPg=",
